@@ -433,5 +433,3 @@ emr-mapreduce-lab5/
 
 ---
 
-## Author
-[Your Name] - Distributed Systems Lab 5
