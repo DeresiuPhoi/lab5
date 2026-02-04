@@ -3,11 +3,6 @@
 ## Overview
 This project implements a Word Count MapReduce job on Amazon Elastic MapReduce (EMR) using Hadoop Streaming with Python.
 
-## Team Information
-- **Student Name**: [Your Name]
-- **Course**: Distributed Systems
-- **Lab**: Lab 5 - Mini-MapReduce on Amazon EMR
-
 ---
 
 ## Table of Contents
